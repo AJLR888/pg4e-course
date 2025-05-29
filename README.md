@@ -22,10 +22,15 @@ The skills in this course will be useful to learners doing data mining or applic
 ## Repository Structure
 
 pg4e-course/
+
 ├── Course 1: Database Design and Basic SQL in PostgreSQL/
+
 │ ├── Module 1: Introduction to SQL
+
 │ ├── Module 2: Single Table SQL
+
 │ ├── Module 3: One-to-Many Data Models
+
 │ └── Module 4: Many-To-Many Data Models
 
 ├── Course 2: Intermediate PostgreSQL/
