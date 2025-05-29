@@ -44,30 +44,3 @@ pg4e-course/
 │ └── Module 4: Wrap Up
 └── README.md
 
-
-
-pg4e-course/
-├── Course 1: Database Design and Basic SQL in PostgreSQL/
-│   └── Module 1: Introduction to SQL
-│   └── Module 2: Single Table SQL
-│   └── Module 3: One-to-Many Data Models
-│   └── Module 4: Many-To-Many Data Models
-
-├── Course 2: Intermediate PostgreSQL/
-│   ├── Module 1: SQL Techniques
-│   ├── Module 2: Using SQL Techniques
-│   ├── Module 3: Text in PostgreSQL
-│   └── Module 4: Regular Expressions
-
-├── Course 3: JSON and Natural Language Processing in PostgreSQL/
-│   ├── Module 1: Natural Language
-│   ├── Module 2: Inverted Indexes with PostgreSQL
-│   ├── Module 3: Python and PostgreSQL
-│   └── Module 4: JSON and PostgreSQL
-
-├── Course 4: Database Architecture, Scale, and NoSQL with Elasticsearch/
-│   ├── Module 1: Scaling Databases
-│   ├── Module 2: Cloud Scale Applications
-│   ├── Module 3: Elasticsearch
-│   └── Module 4: Wrap Up
-└── README.md
