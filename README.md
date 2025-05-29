@@ -23,7 +23,7 @@ The skills in this course will be useful to learners doing data mining or applic
 
 pg4e-course/
 
-├── Course 1: Database Design and Basic SQL in PostgreSQL/
+├── **Course 1: Database Design and Basic SQL in PostgreSQL**/
 
 │ ├── Module 1: Introduction to SQL
 
@@ -34,7 +34,7 @@ pg4e-course/
 │ └── Module 4: Many-To-Many Data Models
 
 
-├── Course 2: Intermediate PostgreSQL/
+├── **Course 2: Intermediate PostgreSQL**/
 
 │ ├── Module 1: SQL Techniques
 
@@ -45,7 +45,7 @@ pg4e-course/
 │ └── Module 4: Regular Expressions
 
 
-├── Course 3: JSON and Natural Language Processing in PostgreSQL/
+├── **Course 3: JSON and Natural Language Processing in PostgreSQL**/
 
 │ ├── Module 1: Natural Language
 
@@ -56,7 +56,7 @@ pg4e-course/
 │ └── Module 4: JSON and PostgreSQL
 
 
-├── Course 4: Database Architecture, Scale, and NoSQL with Elasticsearch/
+├── **Course 4: Database Architecture, Scale, and NoSQL with Elasticsearch**/
 
 │ ├── Module 1: Scaling Databases
 
