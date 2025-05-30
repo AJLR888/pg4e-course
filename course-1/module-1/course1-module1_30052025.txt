@@ -1,0 +1,32 @@
+
+nonox@AJLR MINGW64 ~
+$ psql -h pg.pg4e.com -p 5432 -U pg4e_d08381bfe2 pg4e_d08381bfe2
+Password for user pg4e_d08381bfe2:
+
+psql (17.5, server 11.7 (Ubuntu 11.7-2.pgdg18.04+1))
+WARNING: Console code page (850) differs from Windows code page (1252)
+         8-bit characters might not work correctly. See psql reference
+         page "Notes for Windows users" for details.
+SSL connection (protocol: TLSv1.3, cipher: TLS_AES_256_GCM_SHA384, compression: off, ALPN: none)
+Type "help" for help.
+
+pg4e_d08381bfe2=> CREATE TABLE ages (
+pg4e_d08381bfe2(> name VARCHAR(128),
+pg4e_d08381bfe2(> age INTEGER
+pg4e_d08381bfe2(> );
+CREATE TABLE
+pg4e_d08381bfe2=> DELET FROM ages;
+ERROR:  syntax error at or near "DELET"
+LINE 1: DELET FROM ages;
+        ^
+pg4e_d08381bfe2=> DELETE FROM ages;
+DELETE 0
+pg4e_d08381bfe2=> INSERT INTO ages (name, age) VALUES ('Immanuel', 18);
+INSERT 0 1
+pg4e_d08381bfe2=> INSERT INTO ages (name, age) VALUES ('Kieron', 32);
+INSERT 0 1
+pg4e_d08381bfe2=> INSERT INTO ages (name, age) VALUES ('Shanice', 36);
+INSERT 0 1
+pg4e_d08381bfe2=> INSERT INTO ages (name, age) VALUES ('Viki', 32);
+INSERT 0 1
+pg4e_d08381bfe2=> \q
