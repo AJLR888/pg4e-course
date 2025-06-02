@@ -1,0 +1,19 @@
+/******** QUERY *********/
+CREATE TABLE automagic (
+id SERIAL,
+name VARCHAR(32) NOT NULL,
+height REAL NOT NULL,
+PRIMARY KEY (id)
+);
+/************************/
+
+/******** QUERY *********/
+CREATE TABLE automagic(
+id SERIAL,
+name VARCHAR(32) NOT NULL,
+hight REAL NOT NULL,
+PRIMARY KEY (id)
+);
+/************************/
+
+CREATE TABLE
