@@ -13,7 +13,7 @@ The skills in this course will be useful to learners doing data mining or applic
 ---
 
 ## Tools Used
-- **pgAdmin and DBeaver ** - for writing and saving the queries from the coursework
+- **pgAdmin and DBeaver** - for writing and saving the queries from the coursework
 - **Git Bash** - used as a terminal for typing and submitting the assessments from the course
 - **GitHub** - to publicly display my progress and track changes
 
